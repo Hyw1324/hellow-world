@@ -1,2 +1,2 @@
 # hellow-world
-just another repository
+hellow github
